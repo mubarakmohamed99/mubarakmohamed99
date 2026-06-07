@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Mubarak Ahmed Mohamud 👋</h1>
-<h3 align="center">IT Specialist | ☁️ Cloud | 🔐 Cybersecurity | Nairobi, Kenya</h3>
+<h1 align="center">Hi there, I'm Mubarak Ahmed Mohamud </h1>
+<h3 align="center">IT Specialist | ☁️ Cloud |  Cybersecurity | Nairobi, Kenya</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedmubarakcybersecurityanalyst/" target="_blank">
@@ -13,18 +13,18 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🎓 Computer Science graduate, **University of Nairobi** (2026)
-- ☁️ Building skills across **cloud infrastructure, cybersecurity, and IT support**
-- 🔭 Currently working on an **Odoo AI/ML analytics project** — AI agents & ML APIs for business operations
-- 🌱 Learning **cloud security, DevSecOps, and AI/ML applications**
-- 🎯 Career goal: specialize in **cloud cybersecurity** while working across IT infrastructure, databases, and software development
-- 💬 Ask me about **AWS, Linux, networking, ethical hacking, and Python automation**
+-  Computer Science graduate, **University of Nairobi** (2026)
+-  Building skills across **cloud infrastructure, cybersecurity, and IT support**
+-  Currently working on an **Odoo AI/ML analytics project** — AI agents & ML APIs for business operations
+-  Learning **cloud security, DevSecOps, and AI/ML applications**
+-  Career goal: specialize in **cloud cybersecurity** while working across IT infrastructure, databases, and software development
+- Ask me about **AWS, Linux, networking, ethical hacking, and Python automation**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 - ✅ **AWS Certified Cloud Practitioner**
 - ✅ **ISC2 Certified in Cybersecurity (CC)**
@@ -55,7 +55,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubarakmohamed99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
